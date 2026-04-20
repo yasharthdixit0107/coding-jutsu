@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+presidio-analyzer
+presidio-anonymizer
+spacy
+pymupdf
+python-docx
+motor
+pymongo
+python-multipart
+pydantic
+pillow
+python-dotenv
+celery
+redis
